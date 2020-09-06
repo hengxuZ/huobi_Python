@@ -1,4 +1,4 @@
-
+# encoding: utf-8
 import requests
 import json
 from data.author import dingding_token

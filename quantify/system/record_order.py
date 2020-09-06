@@ -1,3 +1,4 @@
+# encoding: utf-8
 import xlrd,os,xlwt
 from xlutils.copy import copy
 workbook = xlrd.open_workbook(os.getcwd()+"/quantify/transaction_log/record.xlsx")

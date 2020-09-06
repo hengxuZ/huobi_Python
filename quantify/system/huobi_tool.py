@@ -1,4 +1,4 @@
-## 获取最新一条成交记录->行情价格
+# encoding: utf-8
 from huobi import RequestClient
 from huobi.model import *
 import json,os,time,xlrd

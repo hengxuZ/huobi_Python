@@ -1,3 +1,4 @@
+# encoding: utf-8
 from system.huobi_tool import get_market_price, buy_coin, sell_coin
 from system.price import get_buy_price, get_sell_price, modify_price
 from system.dingding import dingding_warn

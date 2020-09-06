@@ -1,3 +1,4 @@
+# encoding: utf-8
 import os,json
 
 data_path = os.getcwd()+"/quantify/data/data.json"
